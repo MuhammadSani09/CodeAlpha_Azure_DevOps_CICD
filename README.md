@@ -95,3 +95,14 @@ Changes made only to this GitHub copy do not trigger that pipeline.
 ## Author
 Muhammad Sani
 CodeAlpha — DevOps Internship
+
+## Project Screenshots
+
+### Successful Pipeline
+![Successful build, test, push, and deployment](screenshots/pipeline-success.png)
+
+### Container Image in ACR
+![Container image stored in Azure Container Registry](screenshots/acr-image.png)
+
+### Deployed Website
+![Live website showing the Version 2 update](screenshots/deployed-website.png)
