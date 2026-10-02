@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DevOps Internship</title>
+</head>
+<body>
+  <h1>DevOps Pipeline is Working!</h1>
+  <p>This web app will be built by Azure Pipelines, stored in Azure Container Registry, and deployed to Azure App Service.</p>
+</body>
+</html>
+<p>Version 2 — deployed automatically through Azure Pipelines.</p>
